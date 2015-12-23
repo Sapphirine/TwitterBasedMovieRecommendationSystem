@@ -4,6 +4,8 @@ Description for codes below:
 
 * training and testing data for Sentiment analysis model is in the "training and testing data after processing" folder
 
+* trained model pickle files are too large for storage on github, it can be produced by running linearSVM.py on the data in the training data.
+
 tweetextraction.py			python code to extract tweets from twitter and store in database.(input from source.txt to search for related movie keywords)
 
 linearSVM.py      			Training the Linear SVC model
