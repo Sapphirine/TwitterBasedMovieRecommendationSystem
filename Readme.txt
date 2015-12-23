@@ -1,5 +1,7 @@
 Description for codes below:
 
+* twitter API credential, Database credentials are removed from the original code. user needs to get their own twitter API key, database setup for the code to work. 
+
 tweetextraction.py			python code to extract tweets from twitter and store in database.(input from source.txt to search for related movie keywords)
 
 linearSVM.py      			Training the Linear SVC model
